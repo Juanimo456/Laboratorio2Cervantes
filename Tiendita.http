@@ -1,0 +1,6 @@
+@Tiendita_HostAddress = http://localhost:5267
+
+GET {{Tiendita_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
